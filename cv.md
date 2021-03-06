@@ -25,3 +25,6 @@ My main goal is to become a part of Epam Group. I am always working on improving
 
 ## Education:
 NTU KhPI - Control Systems Automation, master’s degree with honors
+
+## Language skills:
+My English level is basic, but I am studying it. For me it is not so easy as STEM subjects, but I am working on it. I can read the documentation with the dictionary. Speaking is more difficult for me.
