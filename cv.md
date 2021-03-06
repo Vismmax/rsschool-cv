@@ -18,3 +18,7 @@ My main goal is to become a part of Epam Group. I am always working on improving
 
 ## Code examples:
 `console.log('hello, world!')`
+
+## Working experience:
+- Binary Studio Academy (JS course)
+- Freelance
