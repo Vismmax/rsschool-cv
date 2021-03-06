@@ -22,3 +22,6 @@ My main goal is to become a part of Epam Group. I am always working on improving
 ## Working experience:
 - Binary Studio Academy (JS course)
 - Freelance
+
+## Education:
+NTU KhPI - Control Systems Automation, master’s degree with honors
