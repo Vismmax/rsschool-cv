@@ -15,3 +15,6 @@ My main goal is to become a part of Epam Group. I am always working on improving
 - Node.js, Express
 - SQL, PostgreSQL, MongoDB
 - Git, Webpack
+
+## Code examples:
+`console.log('hello, world!')`
