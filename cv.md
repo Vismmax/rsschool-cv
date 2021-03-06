@@ -8,3 +8,10 @@
 
 ## Goals and strong sides:
 My main goal is to become a part of Epam Group. I am always working on improving of my skills and use every possibility to study something new. I am very teachable especially in STEM subjects and programming. I am result-oriented. I successfully graduated from Binary Studio Academy working at my current job, although everybody told it is impossible to do.
+
+## Programming skills:
+- HTML, CSS
+- JavaScript, React, Vue (basic)
+- Node.js, Express
+- SQL, PostgreSQL, MongoDB
+- Git, Webpack
